@@ -30,10 +30,10 @@ std::cout << container;
 
 #### TODO
 
-<input disabled="" type="checkbox"> Deep copy constructor
-<input disabled="" type="checkbox"> Additional getter/setter methods
-<input disabled="" type="checkbox"> Memory optimization
-<input disabled="" type="checkbox"> Extended string operations
+- [ ] Deep copy constructor
+- [ ] Additional getter/setter methods
+- [ ] Memory optimization
+- [ ] Extended string operations
 
 #### Intuition
 
