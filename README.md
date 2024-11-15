@@ -1,4 +1,4 @@
-The idea behind the Container class is to create a dynamic string container that automatically manages memory allocation, similar to std::string but with custom concatenation behavior. It addresses the limitation of fixed-size arrays by providing automatic expansion.
+The idea behind the Container class is to create a dynamic string container that automatically manages memory allocation, similar to strcat but with custom concatenation behavior. It addresses the limitation of fixed-size arrays by providing automatic expansion.
 
 #### Cloning
 ```cpp 
